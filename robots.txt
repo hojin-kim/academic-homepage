@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /assets/attachments/
+Sitemap: http://blog.hojin.kim/sitemap.xml
