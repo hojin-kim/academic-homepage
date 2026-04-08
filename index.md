@@ -5,7 +5,7 @@ layout: home
 # last_modified_at: September 14, 2024
 ---
 
-Here is my [CV][cvlink].
+Here is my [CV][cvlink]. 
 
 Email: `math@ho**n.k*m`; Replace the asterisks (`*`) with characters from my name. Note the existence of the dot `.` between the first and last names.
 
@@ -23,6 +23,8 @@ I'm studying the algebraic structures of the multiple zeta values (MZVs) in posi
 * B.S. in Mathematical Sciences, KAIST, 2014
 
 ## Employment
+* Postdoctoral Researcher, [VIASM](https://viasm.edu.vn/en/), Jan 2027 - (upcoming)
+* Postdoctoral Researcher, [Chonnam National University](https://math.jnu.ac.kr/math/16621/subview.do), April - August 2026 (upcoming)
 * Postdoctoral Researcher, [LMNO, Université de Caen Normandie](https://lmno.unicaen.fr), Feb 2025 - Feb 2026 (Mentor: [Tuan Ngo Dac])
 
 
@@ -54,7 +56,7 @@ I'm studying the algebraic structures of the multiple zeta values (MZVs) in posi
   </div>
 
 ## Talks
-  * KAIST Number Theory Seminar (Upcoming; August 11, 2025. Daejeon, Korea)
+  * KAIST Number Theory Seminar (August 11, 2025. Daejeon, Korea)
   * Number Theory Session, [The 5th Korea–France Conference in Mathematics](https://www.math.u-bordeaux.fr/~pthieull/LIA/Events/2025) (July 15–18, 2025. Bordeaux, France)
   * [33èmes Journées Arithmétiques](https://www.uni.lu/fstm-en/conferences/ja25/) (June 30–July 4, 2025. Esch-sur-Alzette, Luxembourg)
   * [XXXIII<sup>e</sup> Rencontres Arithmétiques de Caen: Aspects *p*-adiques et modulo *p*](https://renc-arith-2024.sciencesconf.org) (June 18–20, 2025. Caen, France)
