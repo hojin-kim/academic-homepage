@@ -5,7 +5,11 @@ layout: home
 # last_modified_at: September 14, 2024
 ---
 
+Currently I'm a postdoctoral researcher at Chonnam National University. 
+
 Here is my [CV][cvlink]. 
+
+Office: Room 302, Building D14 (College of Natural Sciences Building 1), 77 Yongbong-ro, buk-gu, Gwangju, South Korea 
 
 Email: `math@ho**n.k*m`; Replace the asterisks (`*`) with characters from my name. Note the existence of the dot `.` between the first and last names.
 
@@ -23,9 +27,9 @@ I'm studying the algebraic structures of the multiple zeta values (MZVs) in posi
 * B.S. in Mathematical Sciences, KAIST, 2014
 
 ## Employment
-* Postdoctoral Researcher, [VIASM](https://viasm.edu.vn/en/), Jan 2027 - (upcoming)
-* Postdoctoral Researcher, [Chonnam National University](https://math.jnu.ac.kr/math/16621/subview.do), April - August 2026 (upcoming)
-* Postdoctoral Researcher, [LMNO, Université de Caen Normandie](https://lmno.unicaen.fr), Feb 2025 - Feb 2026 (Mentor: [Tuan Ngo Dac])
+* Postdoctoral Researcher, [VIASM](https://viasm.edu.vn/en/), Upcoming: Jan 2027 –
+* Postdoctoral Researcher, [Chonnam National University](https://math.jnu.ac.kr/math/16621/subview.do), April – August 2026
+* Postdoctoral Researcher, [LMNO, Université de Caen Normandie](https://lmno.unicaen.fr), Feb 2025 – Feb 2026 (Mentor: [Tuan Ngo Dac])
 
 
 ## Publications
@@ -56,13 +60,14 @@ I'm studying the algebraic structures of the multiple zeta values (MZVs) in posi
   </div>
 
 ## Talks
+  * Special Session "Number Theory with Analytic Flavor", [2026 International Conference for the 80th Anniversary of the KMS](https://www.kms.or.kr/conference/meeting/?period=91) (Upcoming: June 22–25, 2026. Seoul, Korea)
   * KAIST Number Theory Seminar (August 11, 2025. Daejeon, Korea)
   * Number Theory Session, [The 5th Korea–France Conference in Mathematics](https://www.math.u-bordeaux.fr/~pthieull/LIA/Events/2025) (July 15–18, 2025. Bordeaux, France)
   * [33èmes Journées Arithmétiques](https://www.uni.lu/fstm-en/conferences/ja25/) (June 30–July 4, 2025. Esch-sur-Alzette, Luxembourg)
   * [XXXIII<sup>e</sup> Rencontres Arithmétiques de Caen: Aspects *p*-adiques et modulo *p*](https://renc-arith-2024.sciencesconf.org) (June 18–20, 2025. Caen, France)
   * [KIAS Number Theory Seminar](http://newton.kias.re.kr/~kntnet/) (May 22, 2025. Online)
-  * Workshop, [School and Workshop “Selected Topics in Arithmetic Algebraic Geometry”](http://math.ac.vn/conference/SWSAAG2024/index.php?lang=en) (October 28–November 8, 2024. Hanoi, Vietnam)
-  * Special Session on Automorphic Forms and *q*-Series, [2022 Global KMS International Conference](http://math.ac.vn/conference/SWSAAG2024/index.php?lang=en) (October 18–21, 2022. Seoul, Korea)
+  * Workshop, [School and Workshop “Selected Topics in Arithmetic Algebraic Geometry”](http://math.ac.vn/conference/SWSAAG2024) (October 28–November 8, 2024. Hanoi, Vietnam)
+  * Special Session on Automorphic Forms and *q*-Series, [2022 Global KMS International Conference](https://www.kms.or.kr/conference/2022_fall/) (October 18–21, 2022. Seoul, Korea)
 
 {% comment %}
 <!-- * 2025 
