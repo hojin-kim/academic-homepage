@@ -5,7 +5,7 @@ layout: home
 # last_modified_at: September 14, 2024
 ---
 
-Currently I'm a postdoctoral researcher at Chonnam National University. 
+I'm currently a postdoctoral researcher at Chonnam National University.
 
 Here is my [CV][cvlink]. 
 
@@ -27,9 +27,9 @@ I'm studying the algebraic structures of the multiple zeta values (MZVs) in posi
 * B.S. in Mathematical Sciences, KAIST, 2014
 
 ## Employment
-* Postdoctoral Researcher, [VIASM](https://viasm.edu.vn/en/), Upcoming: Jan 2027 –
-* Postdoctoral Researcher, [Chonnam National University](https://math.jnu.ac.kr/math/16621/subview.do), April – August 2026
-* Postdoctoral Researcher, [LMNO, Université de Caen Normandie](https://lmno.unicaen.fr), Feb 2025 – Feb 2026 (Mentor: [Tuan Ngo Dac])
+* Postdoctoral Researcher, [VIASM](https://viasm.edu.vn/en/), Upcoming: Jan. 2027 –
+* Postdoctoral Researcher, [Chonnam National University](https://math.jnu.ac.kr/math/16621/subview.do), Apr. – Aug. 2026
+* Postdoctoral Researcher, [LMNO, Université de Caen Normandie](https://lmno.unicaen.fr), Feb. 2025 – Feb. 2026 (Mentor: [Tuan Ngo Dac])
 
 
 ## Publications
@@ -110,7 +110,7 @@ I speak
 
 I can code in
 
-* `python`,
+* `Python`,
 * `Java`,
 * `Mathematica`,
 * `SageMath`, and
@@ -118,7 +118,7 @@ I can code in
 
 ## Links 
 
-(collected for my personal purposes)
+(for personal reference)
 
 ### Research tools and Readings 
 
