@@ -41,6 +41,7 @@ I'm studying the algebraic structures of the multiple zeta values (MZVs) in posi
 * *Riemann hypothesis for period polynomials attached to the derivatives of $L$-functions of cusp forms for $\Gamma_0(N)$* (with [Bo-Hae Im]), **J. Math. Anal. Appl.** 509 (2022), no. 2, Paper No. 125971. [[journal link](https://doi.org/10.1016/j.jmaa.2021.125971)]
 
 ### Preprints
+* *The threshold for linear independence of multiple zeta values in positive characteristic* (with [Bo-Hae Im], [Tuan Ngo Dac]), submitted, 2026.
 * *Zagier-Hoffman's conjectures in positive characteristic II* (with [Bo-Hae Im], Khac Nhuan Le, [Tuan Ngo Dac], Lan Huong Pham), submitted, 2024. [[preprint](https://arxiv.org/abs/2402.11539)]
 * *Hopf algebras and alternating multiple zeta values in positive characteristic* (with [Bo-Hae Im], Khac Nhuan Le, [Tuan Ngo Dac], Lan Huong Pham), submitted, 2023. [[preprint](https://arxiv.org/abs/2304.02337)]
 * *Hopf algebras and multiple zeta values in positive characteristic* (with [Bo-Hae Im], Khac Nhuan Le, [Tuan Ngo Dac], Lan Huong Pham), submitted, 2023. [[preprint](https://arxiv.org/abs/2301.05906)]
