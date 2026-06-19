@@ -70,6 +70,10 @@ I'm studying the algebraic structures of the multiple zeta values (MZVs) in posi
   * Workshop, [School and Workshop “Selected Topics in Arithmetic Algebraic Geometry”](http://math.ac.vn/conference/SWSAAG2024) (October 28–November 8, 2024. Hanoi, Vietnam)
   * Special Session on Automorphic Forms and *q*-Series, [2022 Global KMS International Conference](https://www.kms.or.kr/conference/2022_fall/) (October 18–21, 2022. Seoul, Korea)
 
+### Other Invited Talks
+  * "On the Disproof of the Unit Distance Conjecture", GIST seminar, given at the invitation of Prof. [Minki Kim](https://sites.google.com/view/minkikim/home). (June 19, 2026. Gwangju, Korea)
+    * This was an expository talk on the recent result in discrete geometry [produced by an OpenAI LLM](https://openai.com/ko-KR/index/model-disproves-discrete-geometry-conjecture/), in which the algebraic number theory of number fields plays the central role; the talk was based on [arXiv:2605.20695](https://arxiv.org/abs/2605.20695).
+
 {% comment %}
 <!-- * 2025 
   * A Linear Independence of the Multiple Zeta Values in Positive Characteristics
