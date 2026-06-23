@@ -55,7 +55,7 @@ I'm studying the algebraic structures of the multiple zeta values (MZVs) in posi
       <p> (Sorry, JavaScript is required to view the paper-coworker network.) </p>
     </div>
   </noscript>
-  <div class="flourish-embed flourish-network" data-src="visualisation/17568490" style = "width: 95%; margin: 0 auto;">
+  <div class="flourish-embed flourish-network" data-src="visualisation/17568490" style = "width: 60%; margin: 0 auto;">
       <script src="https://public.flourish.studio/resources/embed.js">
       </script>
   </div>
