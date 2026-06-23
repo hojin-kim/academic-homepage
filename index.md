@@ -61,7 +61,7 @@ I'm studying the algebraic structures of the multiple zeta values (MZVs) in posi
   </div>
 
 ## Talks
-  * Special Session "Number Theory with Analytic Flavor", [2026 International Conference for the 80th Anniversary of the KMS](https://www.kms.or.kr/conference/meeting/?period=91) (Upcoming: June 22–25, 2026. Seoul, Korea)
+  * Special Session "Number Theory with Analytic Flavor", [2026 International Conference for the 80th Anniversary of the KMS](https://www.kms.or.kr/conference/meeting/?period=91) (June 22–25, 2026. Seoul, Korea)
   * KAIST Number Theory Seminar (August 11, 2025. Daejeon, Korea)
   * Number Theory Session, [The 5th Korea–France Conference in Mathematics](https://www.math.u-bordeaux.fr/~pthieull/LIA/Events/2025) (July 15–18, 2025. Bordeaux, France)
   * [33èmes Journées Arithmétiques](https://www.uni.lu/fstm-en/conferences/ja25/) (June 30–July 4, 2025. Esch-sur-Alzette, Luxembourg)
