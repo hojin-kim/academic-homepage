@@ -11,3 +11,5 @@ vendor/
 .env
 
 assets/cv-public_depr.pdf
+assets/_*
+assets/slides
